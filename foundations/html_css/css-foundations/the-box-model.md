@@ -1,6 +1,6 @@
 ### Introduction
 
-Now that you understand the basic syntax of HTML and CSS, we're going to get serious. The most important skills you need to master with CSS are *positioning* and *layout*. Changing fonts and colors is a crucial skill, but being able to put things exactly where you want them on a webpage is even more crucial. After all, how many webpages can you find where absolutely every element is just stacked one on top of another?
+Now that you understand the basic syntax of HTML and CSS, we're going to get serious. The most important skills you need to master with CSS are _positioning_ and _layout_. Changing fonts and colors is a crucial skill, but being able to put things exactly where you want them on a webpage is even more crucial. After all, how many webpages can you find where absolutely every element is just stacked one on top of another?
 
 Learning to position elements on a webpage is not that difficult once you understand just a few key concepts. Unfortunately, many learners race through learning HTML and CSS to get to JavaScript and end up missing these fundamental concepts. This leads to frustration and pain ([and funny gifs](https://giphy.com/gifs/css-13FrpeVH09Zrb2)) because all the JavaScript skills in the world are meaningless if you can't stick your elements on the page where you need them to be. So with that in mind, let's get started.
 
@@ -8,7 +8,7 @@ Learning to position elements on a webpage is not that difficult once you unders
 
 This section contains a general overview of topics that you will learn in this lesson.
 
-- You'll learn all about *the box model*.
+- You'll learn all about _the box model_.
 - You'll learn how to make sure elements are just the right size with `margin`, `padding`, and `borders`.
 
 ### The box model
@@ -25,7 +25,7 @@ Every single thing on a webpage is a rectangular box. These boxes can have other
 
 ![boxes](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/css-foundations/the-box-model/imgs/boxes.png)
 
-You can use the browser's inspector to add the CSS above to this web page if you want. Boxes in boxes!
+You can use the browser's inspector to add the CSS above to this web page if you want, by clicking the `+` button in the top right of the "Styles" panel within the "Elements" tab. Boxes in boxes!
 
 ![lines](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/css-foundations/the-box-model/imgs/odin-lined.png)
 
@@ -47,7 +47,7 @@ Be sure to study the diagrams carefully.
 
 1. [Learn CSS Box Model In 8 Minutes](https://www.youtube.com/watch?v=rIO5326FgPE) is a straightforward overview of the box model, padding and margin. Go ahead and watch this now; it informs everything else.
 1. [box-sizing: border-box (EASY!)](https://www.youtube.com/watch?v=HdZHcFWcAd8) is an add-on to the above resource with a better explanation of 'box-sizing'.
-1. Because the box model concept is so incredibly fundamental, let's dig a bit deeper with  [MDN's lesson on the box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model). It covers the same material as the video(s) above and will introduce you to inline boxes that we will explore in the next lesson. Pay close attention to the examples and take the time to experiment with their in-browser editor!
+1. Because the box model concept is so incredibly fundamental, let's dig a bit deeper with [MDN's lesson on the box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model). It covers the same material as the video(s) above and will introduce you to inline boxes that we will explore in the next lesson. Pay close attention to the examples and take the time to experiment with their in-browser editor!
 1. The [CSS Tricks page on margins](https://css-tricks.com/almanac/properties/m/margin/) has some further information about the `margin` property that you'll find useful. Specifically, the sections about `auto` and margin collapsing contain things you'll want to know.
 
 </div>
